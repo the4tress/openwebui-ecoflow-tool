@@ -2,7 +2,7 @@
 title: EcoFlow API Tool
 author: Ryan Fortress <ryan.fortress@gmail.com>
 project_url: https://github.com/the4tress/openwebui-ecoflow-tool
-open-webui-url: https://openwebui.com/posts/---
+open-webui-url: https://openwebui.com/posts/d821fcde-bd0a-4ab0-9985-13f8238dd376
 version: 1.0.0
 about:
   This is a Tool for Open WebUI to get Ecoflow device information from the Ecoflow API (https://developer.ecoflow.com/us/document/)
